@@ -2,6 +2,7 @@
 
 ## v0.33.0 - _TBD, 2018_
 
+    * Improve validation to force passing contract addresses on private networks (#385)
     * Change `LogErrorContractEventArgs.errorId` type from `BigNumber` to `number` (#TBD)
 
 ## v0.32.2 - _February 9, 2018_
