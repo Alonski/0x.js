@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v0.33.0 - _TBD, 2018_
+
+    * Change `LogErrorContractEventArgs.errorId` type from `BigNumber` to `number` (#TBD)
+
 ## v0.32.2 - _February 9, 2018_
 
     * Fix publishing issue where .npmignore was not properly excluding undesired content (#389)
